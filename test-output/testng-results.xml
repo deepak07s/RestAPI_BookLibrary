@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7405" started-at="2020-05-31T15:57:51Z" finished-at="2020-05-31T15:57:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7405" started-at="2020-05-31T15:57:51Z" finished-at="2020-05-31T15:57:58Z">
+      <class name="Library.Book">
+        <test-method status="PASS" signature="AddBook()[pri:1, instance:Library.Book@6d4b1c02]" name="AddBook" duration-ms="6109" started-at="2020-05-31T08:57:51Z" finished-at="2020-05-31T08:57:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+        <test-method status="PASS" signature="getDetailsUsingID()[pri:2, instance:Library.Book@6d4b1c02]" name="getDetailsUsingID" duration-ms="607" started-at="2020-05-31T08:57:57Z" finished-at="2020-05-31T08:57:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDetailsUsingID -->
+        <test-method status="PASS" signature="getDetailsUsingAuthorname()[pri:3, instance:Library.Book@6d4b1c02]" name="getDetailsUsingAuthorname" duration-ms="310" started-at="2020-05-31T08:57:57Z" finished-at="2020-05-31T08:57:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDetailsUsingAuthorname -->
+        <test-method status="PASS" signature="deleteBook()[pri:4, instance:Library.Book@6d4b1c02]" name="deleteBook" duration-ms="294" started-at="2020-05-31T08:57:58Z" finished-at="2020-05-31T08:57:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBook -->
+      </class> <!-- Library.Book -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
